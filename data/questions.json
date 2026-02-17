@@ -1,0 +1,270 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "question": {
+        "zh": "以下哪座城市是中国东部地区重要的中心城市，历史上一直有“东南第一重镇”之称？",
+        "en": "Which of the following cities is an important central city in eastern China and has historically been known as the \"First Important Town in the Southeast\"?",
+        "fr": "Quelle est la capitale de la province du Jiangsu?"
+      },
+      "options": [
+        {
+          "zh": "南京",
+          "en": "Nanjing",
+          "fr": "Nanjing",
+          "image": "/images/pic/0 (1).jpeg"
+        },
+        {
+          "zh": "杭州",
+          "en": "Hangzhou",
+          "fr": "Hangzhou",
+          "image": "/images/pic/0 (2).jpeg"
+        },
+        {
+          "zh": "上海",
+          "en": "Shanghai",
+          "fr": "Shanghai",
+          "image": "/images/pic/0 (1).png"
+        }
+      ],
+      "answer": 0
+    },
+   
+    {
+      "id": 2,
+      "type": "choice",
+      "question": {
+        "zh": "以下哪一项不属于中国四大古都？",
+        "en": "Which of the following is not one of China's Four Great Ancient Capitals?",
+        "fr": "Quelle est la capitale de la province du Jiangsu?"
+      },
+      "options": [
+        {
+          "zh": "南京",
+          "en": "Nanjing",
+          "fr": "Nanjing",
+          "image": "/images/pic/0 (1).jpeg"
+        },
+         {
+          "zh": "西安",
+          "en": "Xi'an",
+          "fr": "Xi'an",
+          "image": "/images/pic/0 (3).jpeg"
+        },
+        {
+          "zh": "北京",
+          "en": "Beijing",
+          "fr": "Beijing",
+          "image": "/images/pic/0 (4).jpeg"
+        },
+         {
+          "zh": "杭州",
+          "en": "Hangzhou",
+          "fr": "Hangzhou",
+          "image": "/images/pic/0 (2).jpeg"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "question": {
+        "zh": "南京的内核是什么？",
+        "en": "What is the core value of Nanjing?",
+        "fr": "Quel est la valeur centrale de Nanjing?"
+      },
+      "options": [
+        {
+          "zh": "博爱",
+          "en": "Fraternity",
+          "fr": "Fraternité"
+        },
+       {
+          "zh": "平等",
+          "en": "Equality",
+          "fr": "Égalité"
+        },
+        {
+          "zh": "和谐",
+          "en": "Harmony",
+          "fr": "Harmonie"
+        }
+      ],
+      "answer": 0
+    } ,
+    {
+      "id": 4,
+      "type": "choice",
+      "question": {
+        "zh": "博爱的理念是谁提出来的？",
+        "en": "Who proposed the concept of Fraternity?",
+        "fr": "Qui a proposé le concept de Fraternité?"
+      },
+      "options": [
+        {
+          "zh": "闻一多",
+          "en": "Wen Yiduo",
+          "fr": "Wen Yiduo",
+          "image": "/images/pic/0 (5).jpeg"
+        },
+         {
+          "zh": "孙中山",
+          "en": "Sun Yat-sen",
+          "fr": "Sun Yat-sen",
+          "image": "/images/pic/0 (6).jpeg"
+        },
+        {
+          "zh": "钱钟书",
+          "en": "Qian Zuo",
+          "fr": "Qian Zuo",
+          "image": "/images/pic/0 (7).jpeg"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "question": {
+        "zh": "以下哪所高校位于南京？",
+        "en": "Which of the following universities is located in Nanjing?",
+        "fr": "Quelle est la capitale de la province du Jiangsu?"
+      },
+      "options": [
+        {
+          "zh": "东南大学",
+          "en": "Southeast University",
+          "fr": "Southeast University",
+          "image": "/images/pic/0 (9).jpeg"
+        },
+         {
+          "zh": "浙江大学",
+          "en": "Zhejiang University",
+          "fr": "Zhejiang University",
+          "image": "/images/pic/0 (8).jpeg"
+        },
+        {
+          "zh": "中国海洋大学",
+          "en": "China Ocean University",
+          "fr": "China Ocean University",
+          "image": "/images/pic/0 (10).jpeg"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "question": {
+        "zh": "以下哪一项不属于南京特色美食？",
+        "en": "Which of the following is not one of Nanjing's special food?",
+        "fr": "Quelle est la capitale de la province du Jiangsu?"
+      },
+      "options": [
+        {
+          "zh": "盐水鸭",
+          "en": "Boiled Salted Duck",
+          "fr": "Boiled Salted Duck",
+          "image": "/images/pic/0 (11).jpeg"
+        },
+         {
+          "zh": "皮肚面",
+          "en": "Pork Rind Noodles",
+          "fr": "Pork Rind Noodles",
+          "image": "/images/pic/0 (12).jpeg"
+        },
+        {
+          "zh": "胡辣汤",
+          "en": "Hu Liao Soup",
+          "fr": "Hu Liao Soup",
+          "image": "/images/pic/0 (13).jpeg"
+        }
+      ],
+      "answer": 2
+    },
+      {
+      "id": 7,
+      "type": "judge",
+      "question": {
+        "zh": "南京的70多个城市名称表明南京拥有悠久的历史。",
+        "en": "Nanjing has a long history with 70+ cities named after it.",
+        "fr": "Nanjing a une longue histoire avec 70+ villes nommées'après elle."
+      },
+      "answer": true  
+    },
+    {
+      "id": 8,
+      "type": "judge",
+      "question": {
+        "zh": "南京目前是中国南方的政治文化中心。",
+        "en": "Nanjing is the political and cultural center of the southern part of China.",
+        "fr": "Nanjing est le centre politique et culturel de la partie sud de la Chine."
+      },
+      "answer": true
+    },
+    {
+      "id": 9,
+      "type": "judge",
+      "question": {
+        "zh": "独角兽企业数量的多少可以说明这座城市对人才、项目的吸引力。",
+        "en": "The number of unicorn companies in Nanjing can indicate the city's appeal to talent and projects.",
+        "fr": "Le nombre d'entreprises unicornes en Nanjing peut indiquer l'attrait de la ville aux talents et aux projets."
+      },
+      "answer": true
+    },
+    {
+      "id": 10,
+      "type": "judge",
+      "question": {
+        "zh": "北京烤鸭的历史比南京烤鸭悠久。",
+        "en": "Beijing duck has a longer history than Nanjing duck.",
+        "fr": "Beijing duck a une histoire plus longue que Nanjing duck."
+      },
+      "answer": false
+    },
+    {
+      "id": 11,
+      "type": "judge",
+      "question": {
+        "zh": "南京是一座中国教育文化名城。",
+        "en": "Nanjing is a city with a long history of education and culture.",
+        "fr": "Nanjing est une ville avec une longue histoire d'éducation et de culture."
+      },
+      "answer": true
+    },
+    {
+      "id": 12,
+      "type": "judge",
+      "question": {
+        "zh": "南京是全世界唯一一个获得“世界文学之都”称号的城市。",
+        "en": "Nanjing is the world's only city to receive the title of 'World Literature Capital.'",
+        "fr": "Nanjing est la seule ville du monde à recevoir le titre de 'Capitale littéraire mondiale.'."
+      },
+      "answer": false
+    }
+    ,
+    {
+      "id": 13,
+      "type": "judge",
+      "question": {
+        "zh": "约翰•拉贝在南京大屠杀期间组建了南京国际安全区，保护了很多中国人的生命。",
+        "en": "John Labe, during the Nanjing Incident, established the Nanjing International Security Zone, protecting many Chinese lives.",
+        "fr": "John Labe, during the Nanjing Incident, established the Nanjing International Security Zone, protecting many Chinese lives."
+      },
+      "answer": true
+    }
+    ,
+    {
+      "id": 14,
+      "type": "judge",
+      "question": {
+        "zh": "新街口是“中华第一商圈”，新街口商圈是中国百货业最发达、商贸密集度最高的地区。",
+        "en": "Newgate is the 'First Cultural Business District' of China, with the highest trade density in the country.",
+        "fr": "Newgate est la 'Première Business District' de Chine, avec la plus haute densité de commerce dans le pays."
+      },
+      "answer": true
+    }
+  ]
+}

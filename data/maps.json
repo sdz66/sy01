@@ -1,0 +1,48 @@
+{
+  "maps": [
+    {
+      "id": 1,
+      "title": {
+        "zh": "民国寻迹一日游",
+        "en": "Republic of China Day Tour",
+        "fr": "Tour d'une journée en République de Chine"
+      },
+      "image": "/images/map1.JPG",
+      "video": "/videos/chapter1.mp4",
+      "size": "828x1104"
+    },
+    {
+      "id": 2,
+      "title": {
+        "zh": "六朝古都之旅",
+        "en": "Six Dynasties Ancient Capital Tour",
+        "fr": "Tour de la capitale ancienne des Six Dynasties"
+      },
+      "image": "/images/map2.JPG",
+      "video": "/videos/chapter2.mp4",
+      "size": "828x1104"
+    },
+    {
+      "id": 3,
+      "title": {
+        "zh": "烟火金陵舌尖旅",
+        "en": "Nanjing Food Tour",
+        "fr": "Tour culinaire de Nankin"
+      },
+      "image": "/images/map3.JPG",
+      "video": "/videos/chapter3.mp4",
+      "size": "828x1104"
+    },
+    {
+      "id": 4,
+      "title": {
+        "zh": "梧桐文艺citywalk",
+        "en": "Sycamore Literary Citywalk",
+        "fr": "Promenade littéraire des sycomores"
+      },
+      "image": "/images/map4.JPG",
+      "video": "/videos/chapter4.mp4",
+      "size": "828x1104"
+    }
+  ]
+}
